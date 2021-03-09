@@ -13,6 +13,8 @@ namespace TokeletesSzam
 			 *       Tökéletes az a szám, amely megegyezik osztóinak összegével.
 			 *	        például: 28 = 1 + 2 + 4 + 7 + 14
              */
+
+
             Console.Write("Kérem adjon meg egy pozitív egész számot: ");
             int szam = Convert.ToInt32(Console.ReadLine());
             int osszeg = 0;
