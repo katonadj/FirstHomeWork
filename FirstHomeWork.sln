@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarenheitCelsius", "Farenhe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tartaly", "Tartaly\Tartaly.csproj", "{00EAD884-7E14-40A0-8753-A0027DF52538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzBanana", "FizzBuzzBanana\FizzBuzzBanana.csproj", "{0767EC25-D241-4537-89C3-41E40AE4297A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzzBanana", "FizzBuzzBanana\FizzBuzzBanana.csproj", "{0767EC25-D241-4537-89C3-41E40AE4297A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nemprim", "Nemprim\Nemprim.csproj", "{27F31633-4D43-4B78-9C76-EF5AE36AE2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nemprim", "Nemprim\Nemprim.csproj", "{27F31633-4D43-4B78-9C76-EF5AE36AE2AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokeletesSzam", "TokeletesSzam\TokeletesSzam.csproj", "{DED2CC11-126E-4369-B0A0-DE94EB6B4847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TokeletesSzam", "TokeletesSzam\TokeletesSzam.csproj", "{DED2CC11-126E-4369-B0A0-DE94EB6B4847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turkalo", "Turkalo\Turkalo.csproj", "{4C341C89-5E12-41D0-8B5D-520579602AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DED2CC11-126E-4369-B0A0-DE94EB6B4847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DED2CC11-126E-4369-B0A0-DE94EB6B4847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DED2CC11-126E-4369-B0A0-DE94EB6B4847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
