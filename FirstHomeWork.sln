@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nemprim", "Nemprim\Nemprim.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TokeletesSzam", "TokeletesSzam\TokeletesSzam.csproj", "{DED2CC11-126E-4369-B0A0-DE94EB6B4847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turkalo", "Turkalo\Turkalo.csproj", "{4C341C89-5E12-41D0-8B5D-520579602AD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Turkalo", "Turkalo\Turkalo.csproj", "{4C341C89-5E12-41D0-8B5D-520579602AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tombos", "Tombos\Tombos.csproj", "{BEBEDBD4-930B-46E1-9A7C-784CAC4258F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C341C89-5E12-41D0-8B5D-520579602AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBEDBD4-930B-46E1-9A7C-784CAC4258F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBEDBD4-930B-46E1-9A7C-784CAC4258F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBEDBD4-930B-46E1-9A7C-784CAC4258F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBEDBD4-930B-46E1-9A7C-784CAC4258F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
